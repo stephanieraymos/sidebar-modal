@@ -5,7 +5,9 @@ import Home from "./Home";
 function App() {
   return (
     <>
-      <h2>modal-sidebar</h2>
+      <Home />
+      <Modal />
+      <Sidebar />
     </>
   );
 }
